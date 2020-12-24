@@ -1,0 +1,4 @@
+test_*
+/.ipynb_checkpoints
+/__pycache__
+/.idea
